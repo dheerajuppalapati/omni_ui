@@ -37,7 +37,7 @@ const initialState: AuthState = {
 
 const dummyUser: AuthUser = {
   id: '123',
-  email: 'demo@minimals.cc', // Updated email
+  email: 'demo@omni.com', // Updated email
   firstName: 'John',
   lastName: 'Doe',
 };
